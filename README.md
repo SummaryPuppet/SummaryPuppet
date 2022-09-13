@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Hi this is my github
+# Hi 👋 this is my github
 
 I developer in Reactjs, Expressjs & MongoDB
 
