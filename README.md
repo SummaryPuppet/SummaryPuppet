@@ -1,6 +1,6 @@
 # Hi 👋 this is my github
 
-I developer in Reactjs, Expressjs & MongoDB
+I developer in Reactjs, Expressjs, MongoDB, Rust & Python
 
 ## Objectives
 
