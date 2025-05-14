@@ -1,10 +1,35 @@
-# Hi 👋 this is my github
+# 👋 Hi there! I'm Adrian Salcedo
 
-I developer in Reactjs, Expressjs, MongoDB, Rust & Python
+🎓 I'm 21 years old and currently studying Systems Engineering.  
+💻 Passionate about web development and always eager to learn more.
 
-## Objectives
+## 🚀 Tech Stack:
 
-I want learn laravel, django and go
+- ⚛️ **Frontend:** React, Astro
+- 🖥️ **Backend:** Express, basic Laravel, Django  
+- 🗄️ **Databases:** SQL, MongoDB  
+- ☕ **Currently learning:** Spring Framework  
+
+## 🛠️ Additional Tools & Skills:
+
+- Git & GitHub  
+- RESTful APIs  
+- MVC architecture and clean code practices  
+- Teamwork and continuous improvement mindset
+
+## 📈 Learning Goals:
+
+- Improve my skills in Java and Spring Boot  
+- Dive deeper into modern architectures like microservices  
+- Learn DevOps practices and cloud deployment  
+
+## 📫 How to reach me:
+
+Feel free to reach out here on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/).
+
+---
+
+⭐ Thanks for stopping by!
 
 <!--
 **SummaryPuppet/SummaryPuppet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
