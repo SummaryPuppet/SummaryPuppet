@@ -25,7 +25,7 @@
 
 ## 📫 How to reach me:
 
-Feel free to reach out here on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/).
+Feel free to reach out here on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/adrian-salcedo-00a817241/).
 
 ---
 
