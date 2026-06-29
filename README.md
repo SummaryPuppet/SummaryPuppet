@@ -1,14 +1,14 @@
 # 👋 Hi there! I'm Adrian Salcedo
 
-🎓 I'm 21 years old and currently studying Systems Engineering.  
+🎓 I'm 22 years old and currently studying Systems Engineering.  
 💻 Passionate about web development and always eager to learn more.
 
 ## 🚀 Tech Stack:
 
 - ⚛️ **Frontend:** React, Astro
-- 🖥️ **Backend:** Express, basic Laravel, Django  
+- 🖥️ **Backend:** Express, basic Laravel, Django, Spring Framework  
 - 🗄️ **Databases:** SQL, MongoDB  
-- ☕ **Currently learning:** Spring Framework  
+- ☕ **Currently learning:** IA
 
 ## 🛠️ Additional Tools & Skills:
 
