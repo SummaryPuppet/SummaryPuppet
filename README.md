@@ -44,8 +44,12 @@ of AI and Java/Spring.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SummaryPuppet&show_icons=true&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SummaryPuppet&layout=compact&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SummaryPuppet&theme=github" alt="Profile summary" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SummaryPuppet&theme=github" alt="Repos per language" />
+  <img height="165" src="https://streak-stats.demolab.com?user=SummaryPuppet&hide_border=true" alt="GitHub streak" />
 </p>
 
 ## 📫 Reach Me
